@@ -17,3 +17,5 @@ class Config(object):
     ADMINS = ['fancy84machine@gmail.com']
 
     POSTS_PER_PAGE = 25
+
+    LANGUAGES = ['en', 'es']
